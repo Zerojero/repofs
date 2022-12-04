@@ -14,7 +14,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 - Lebih dari satu Posting dalam Satu Link (batch).
 - Fleksibel FSUB Button bisa 1 button atau 2 button menyesuaikan dengan var yang di isi.
 
-### Setup
+### Setu
 
 - Tambahkan bot ke Channel Database dengan semua izin admin
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
@@ -23,7 +23,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Destra1112/jeri"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Yonsganteng/jeri"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
